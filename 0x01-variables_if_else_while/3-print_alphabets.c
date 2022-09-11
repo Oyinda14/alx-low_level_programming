@@ -1,5 +1,6 @@
-nclude <stdio.h>
+#include <stdio.h>
 /**
+ * main - Prints the alphabet in lowercase, then in uppercase.
  * (*
  * Return: 0 on success
  */
@@ -9,7 +10,8 @@ int main(void)
 	char d = 'A';
 
 	while (c <= 'z')
-	{putchar(c);
+	{
+		putchar(c);
 		c++;
 	}
 	while (d <= 'Z')
