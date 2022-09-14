@@ -20,13 +20,5 @@ int print_last_digit(int nld)
 
 		return (pld);
 	}
-	 
-
-	 
-
-
-
-
-
 
 	 
