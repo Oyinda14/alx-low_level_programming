@@ -5,7 +5,7 @@
  *  @a: two integer arguments
  *  @b: two integer arguments
  *  Return: sum of the result
- *  */
+ *  /
 
 int add(int a, int b)
 {
